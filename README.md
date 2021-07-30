@@ -1,6 +1,6 @@
 # Logica de Programação
 
-Repositório contendo vários exercícios de lógica de programação em diversas linguagens. 
+Repositório contendo vários exercícios de lógica de programação, de início, na linguagem Java. 
 
 
 
